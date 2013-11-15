@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/kafran/kafran-blog-pages.git
