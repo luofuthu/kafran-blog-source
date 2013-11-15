@@ -81,7 +81,7 @@ SITE_DESCRIPTION = u'My name is Kolmar Kafran. I am kafran at Github and @doutor
 LANDING_PAGE_ABOUT = {'title': 'Wellcome to my personal blog',
         'details': """<div itemscope itemtype="http://schema.org/Person"><p>My name
         is <span itemprop="name">Kolmar Kafran</span>.
-       I am <a href="https://github.com/talha131/" title="My Github
+       I am <a href="https://github.com/kafran/" title="My Github
        profile" itemprop="url"><span itemprop="nickname">kafran</span></a> at Github and <a
        href="https://twitter.com/doutorchefe/" title="My Twitter
        profile" itemprop="url">@doutorchefe</a> at twitter. You can also reach me via <a
