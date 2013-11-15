@@ -6,6 +6,7 @@ Slug: mac-mini-memory-upgrade
 Summary: Upgrading Mac Mini's memory and solving problems
 keywords: mac mini memory upgrade
 modified: 2013-11-15 20:40
+disqus_identifier: 20130526-mac-mini-memory-upgrade
 
 [TOC]
 

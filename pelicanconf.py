@@ -87,7 +87,7 @@ LANDING_PAGE_ABOUT = {'title': 'Wellcome to my personal blog',
        profile" itemprop="url">@doutorchefe</a> at twitter. You can also reach me via <a
        href="&#x6d;ai&#108;&#116;o&#58;bl&#x6f;g&#64;&#107;a&#102;&#114;&#x61;&#110;.n&#101;t" title="My email
        address" itemprop="email">email</a>.</p><p>I work on <a href="http://www.ifpb.edu.br/"
-       title="IFPB" itemprop="affiliation">IFPB</a> which is a Brazilian federal college.</p><p>I have a passion for technologies and management. I'm trying to learn web technologies like HTML5, CSS and javascript.</p><p>I try to<a
+       title="IFPB" itemprop="affiliation">IFPB</a> which is a Brazilian federal college.</p><p>I have a passion for technologies and management. I'm trying to learn web technologies like HTML5, CSS and javascript.</p><p>I try to <a
        href="http://runkeeper.com/user/kafran/profile" title="My
        runkeeper profile" itemprop="url">exercise</a> and <a
        href="http://www.goodreads.com/" title="My GoodReads profile" itemprop="url">read books</a> regularly. To be a stronger and better version of
