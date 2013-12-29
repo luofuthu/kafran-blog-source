@@ -17,7 +17,7 @@ RELATIVE_URLS = False
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = ['.git', '.gitignore', 'CNAME', 'README.md', 'robots.txt']
+OUTPUT_RETENTION = ['.git', '.gitignore', 'CNAME', 'README.md', 'robots.txt', 'opcoes']
 
 # Following items are often useful when publishing
 
